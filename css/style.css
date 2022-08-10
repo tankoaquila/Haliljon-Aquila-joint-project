@@ -1,0 +1,15 @@
+#navbar li a {
+  background-color: #eee;
+  color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+
+#navbar {
+  width: 200px;
+}
+
+@media (max-width: 1200px) {
+  color black;
+}
